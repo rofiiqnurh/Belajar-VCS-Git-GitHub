@@ -1,0 +1,8 @@
+# VCS / Version Control System
+  ^ Adalah sistem yang menyimpan dan mengelola rekaman perubahan dari source code.
+  
+# Git
+  ^ Adalah salah satu software yang bisa melakukan VCS.
+  
+# GitHub
+  ^ Adalah Website / layanan untuk mengelola project Git.
