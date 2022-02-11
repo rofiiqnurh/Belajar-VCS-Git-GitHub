@@ -1,0 +1,12 @@
+# Istilah dalam Git
+
+Repository = Folder project kita
+Commit = Rekaman / snapshot dari repo kita
+Hash = Penanda unik pada sebuah commit
+Checkout = Berpindah dari sebuah commit ke commit yang lain
+Branch = Cabang bebas dari sebuah commit
+Merge = Menggabungkan branch
+Remote = Sumber yang memiliki repo
+Clone = Mengambil repo dari remote
+Push = Mengirimkan commit ke repo
+Pull Mengambil commit dari repo
